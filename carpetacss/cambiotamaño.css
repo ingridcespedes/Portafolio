@@ -1,0 +1,34 @@
+/*480px*/
+@media screen and(max-width:480px){
+	
+	body{
+		background:aqua;
+		}
+
+	.b-home{
+		background:aqua;
+	}
+	#header{
+		max-width: 100%;
+	}
+	#contenedor-2{
+		width:100%;
+		height: auto;
+	}
+
+	#navegation a{
+		padding-left: 20%;
+		max-width: 100%;
+		maximum-scale:100%;
+	}
+	.imagengaleria{
+		width: 100%;
+	}
+	.primeraimagen{
+		width: 100%;
+		max-width: 100%;
+	}
+
+}/*480px*/
+
+}/*480px*/
